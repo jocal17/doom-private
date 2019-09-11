@@ -21,5 +21,5 @@
 (setq org-log-done 'time
       org-log-done 'note)
 
-(setq ccls-initialization-options `(:clang
-                                    (:extraArgs ["-isystem", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/"])))
+;;(setq ccls-initialization-options `(:clang
+;;                                    (:extraArgs ["-isystem", "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/"])))
